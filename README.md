@@ -1,4 +1,4 @@
-![Banner de Guille](https://github.com/gcpadilla/gcpadilla/blob/main/guiller..png?raw=true)
+
 ## 👋 ¡Hola! Soy Guille
 
 Desarrollador web apasionado por crear soluciones intuitivas, escalables y centradas en el usuario.
