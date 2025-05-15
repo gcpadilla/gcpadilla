@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Guille
+
+Desarrollador web apasionado por crear soluciones intuitivas, escalables y centradas en el usuario.
+Me especializo en **JavaScript/TypeScript**, **React**, **Node.js** y tecnologías modernas del ecosistema web.
 
 <!--
 **gcpadilla/gcpadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
