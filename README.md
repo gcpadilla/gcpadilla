@@ -1,3 +1,5 @@
+![Banner de Guille](./15 may 2025, 04_57_12 p.m..png)
+
 ## 👋 ¡Hola! Soy Guille
 
 Desarrollador web apasionado por crear soluciones intuitivas, escalables y centradas en el usuario.
