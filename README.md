@@ -1,5 +1,4 @@
-![Banner de Guille](./15 may 2025, 04_57_12 p.m..png)
-
+![Banner de Guille](https://github.com/gcpadilla/gcpadilla/blob/main/15%20may%202025,%2004_57_12%20p.m..png?raw=true)
 ## 👋 ¡Hola! Soy Guille
 
 Desarrollador web apasionado por crear soluciones intuitivas, escalables y centradas en el usuario.
