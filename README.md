@@ -1,4 +1,4 @@
-
+![Banner de Guille](./img.png)
 ## 👋 ¡Hola! Soy Guille
 
 Desarrollador web apasionado por crear soluciones intuitivas, escalables y centradas en el usuario.
